@@ -1,0 +1,22 @@
+.main-content{
+    display: flex;
+    gap: 1.5rem;
+    padding: 1rem;
+    flex-wrap: wrap;
+}
+
+.filter-category{
+    padding: 1rem;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-type{
+    padding: 1rem;
+    border: 1px solid #ddd;
+}
+
+.filters h2{
+    
+}
